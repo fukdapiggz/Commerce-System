@@ -1,7 +1,7 @@
 > Commerce-System
 
 
-My system is a-like Shopify, and WooCommerce. However it is built on PHP, JS, HTML, and CSS. I want my system to one-day be curated by an open-source community, because I know how much of a struggle creating such a big platform. For now I am the Author (Unknøwen Gee)
+My system is a-like Shopify, and WooCommerce. However it is built on PHP, JS, HTML, and CSS. I want my system to one-day be curated by an open-source community, because I know how much of a struggle it is creating such a big platform. For now I am the Author (Unknøwen Gee)
 
 Feel free to remix my git repository, and customize my current CSS and current code if you'd like. Please credit myself and other libraries in my current work.
 
