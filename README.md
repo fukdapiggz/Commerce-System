@@ -5,7 +5,7 @@ My system is a-like Shopify, and WooCommerce. However it is built on PHP, JS, HT
 
 Feel free to remix my git repository, and customize my current CSS and current code if you'd like. Please credit myself and other libraries in my current work.
 
-######Features
+###### Features
 Administration Portal (http://localhost/Commerce-System/administrator)
 
 Javascript Cart
@@ -17,7 +17,7 @@ Bootstrap5 Backend
 PHP Login and Registration System
 
 Products fed from MySQLi
-######Special Thanks/Libraries
+###### Special Thanks/Libraries
 jQuery
 
 Perfect-Scrollbar
